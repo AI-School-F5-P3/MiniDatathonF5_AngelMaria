@@ -1,4 +1,4 @@
-# MiniDatathonF5_AngelMaria
+# MiniDatathonF5 por Angel Martinez
 Mini Datathon para el análisis de datos de una API con datos relativos a incidencia de casos Covid en USA
 
 #### Instalación
@@ -15,7 +15,7 @@ Mini Datathon para el análisis de datos de una API con datos relativos a incide
     ```bash
         source env/bin/activate
     ```
--   [ ] Instala las librerías y dependencias necesarias
+-   Instala las librerías y dependencias necesarias
     ```bash
         pip install -r requirements.txt
     ```
